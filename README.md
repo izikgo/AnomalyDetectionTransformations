@@ -15,10 +15,15 @@ It includes all experiments reported in the paper.
 If you use the ideas or method presented in the paper, please cite:
 
 ```
-@article{golan2018deep,
-  title={Deep Anomaly Detection Using Geometric Transformations},
-  author={Golan, Izhak and El-Yaniv, Ran},
-  journal={arXiv preprint arXiv:1805.10917},
-  year={2018}
+@inproceedings{NEURIPS2018_5e62d03a,
+ author = {Golan, Izhak and El-Yaniv, Ran},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
+ pages = {},
+ publisher = {Curran Associates, Inc.},
+ title = {Deep Anomaly Detection Using Geometric Transformations},
+ url = {https://proceedings.neurips.cc/paper/2018/file/5e62d03aec0d17facfc5355dd90d441c-Paper.pdf},
+ volume = {31},
+ year = {2018}
 }
 ```
